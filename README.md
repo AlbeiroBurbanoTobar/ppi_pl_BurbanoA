@@ -1,26 +1,25 @@
 # ppi_pl_BurbanoA
 
-# Comparador de Medios de Transporte
+# Albeiro Jose Burbano Tobar - Desarrollador Freelance
 
-## Descripción
-Una aplicación para analizar y comparar medios de transporte en la ciudad, ofreciendo al usuario la opción más rápida y económica para llegar a su destino.
+Bienvenido a mi perfil freelance, especializado en desarrollo web y móvil.
 
-## Justificación
-Ante el crecimiento de las ciudades y el aumento del tráfico, esta aplicación busca proporcionar una solución eficiente para la elección del medio de transporte óptimo.
+## Sobre mí
+- Estudiante de ingeniería en la Universidad Nacional de Colombia, Facultad de Minas.
+- Experiencia en React Native, Python, JavaScript y Flutter Flow.
+- Capaz de colaborar eficazmente en equipos o trabajar de manera independiente.
+- Fuerte habilidad en la resolución de problemas y alta adaptabilidad a diferentes entornos y desafíos.
 
-## Librerías Utilizadas
-- **NumPy**: Cálculos numéricos para tiempo de viaje y costo.
-- **Pandas**: Análisis de datos sobre horarios, tarifas y ubicaciones.
-- **Matplotlib**: Visualización de gráficos comparativos.
-- **Scipy**: Análisis estadísticos de la eficiencia de los transportes.
-- **Geopandas**: Visualización de datos geoespaciales y mapas.
+## Servicios Ofrecidos
+- Desarrollo de aplicaciones móviles y web.
 
-## Sobre Mí
-- **Nombre**: Albeiro Jose Burbano Tobar
-- **Institución**: Universidad Nacional de Colombia, Facultad de Minas, sede Medellín.
-- **Grupo**: Miembro del semillero de Ciberseguridad del Grupo de Investigación T&T.
-- **Habilidades**: Análisis de requisitos, React Native, Python, Flutter Flow, JavaScript.
 
-## Enlaces
-- [LinkedIn](www.linkedin.com/in/albeiro-jose-burbano-tobar-759ba4297
-- [GitHub]([URL_DEL_GITHUB](https://github.com/AlbeiroBurbanoTobar)https://github.com/AlbeiroBurbanoTobar
+## Metas e Intereses Profesionales
+- Expandir mi experiencia en desarrollo de software.
+- Explorar nuevas tecnologías y marcos de trabajo.
+
+## Contacto
+- LinkedIn: [Mi LinkedIn](http:/www.linkedin.com/in/albeiro-jose-burbano-tobar-759ba4297)
+- GitHub: [Mi GitHub](https://github.com/AlbeiroBurbanoTobar)
+- Correo: albeirojbt@gmail.com
+
