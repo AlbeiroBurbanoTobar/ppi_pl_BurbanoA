@@ -22,5 +22,5 @@ Ante el crecimiento de las ciudades y el aumento del tráfico, esta aplicación 
 - **Habilidades**: Análisis de requisitos, React Native, Python, Flutter Flow, JavaScript.
 
 ## Enlaces
-- [LinkedIn](www.linkedin.com/in/albeiro-jose-burbano-tobar-759ba4297)
+- [LinkedIn](www.linkedin.com/in/albeiro-jose-burbano-tobar-759ba4297
 - [GitHub]([URL_DEL_GITHUB](https://github.com/AlbeiroBurbanoTobar)https://github.com/AlbeiroBurbanoTobar
