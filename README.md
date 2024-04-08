@@ -1,4 +1,4 @@
-¡Hola! Soy Albeiro Burbano, tu próximo colaborador en desarrollo web y móvil.
+Hola, Soy Albeiro Burbano, tu próximo colaborador en desarrollo web y móvil.
 
 ## Un poco sobre mí
 Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia y me he especializado en hacer que la tecnología funcione para las personas. Cuando no estoy sumergido en código, probablemente me encontrarás contribuyendo al Semillero de Ciberseguridad o explorando nuevas tendencias tecnológicas. Me gusta el trabajo en equipo, pero también sé tomar las riendas de proyectos independientes con responsabilidad y creatividad.
