@@ -29,6 +29,7 @@ Si estás buscando a alguien comprometido, apasionado por la tecnología y listo
 - **GitHub**: [Revisa mi código](https://github.com/AlbeiroBurbanoTobar)
 - **Upwork**: [Ve mi perfil en Upwork](https://www.upwork.com/freelancers/~017e0544b7ea64d6c0?mp_source=share)
 - **Freelancer**: [Ve mi perfil en Freelancer](https://www.freelancer.com/u/Albeiro73?sb=t)
+- **Stack Overflow**: [Visita mi perfil](https://stackoverflow.com/users/24090991/albeiro-burbano) 
 - **Correo**: [Escríbeme](mailto:albeirojbt@gmail.com)
 
 Gracias por detenerte en mi perfil. ¡Espero con interés la posibilidad de trabajar juntos!
