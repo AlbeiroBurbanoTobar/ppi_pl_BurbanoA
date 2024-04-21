@@ -13,8 +13,11 @@ Como freelancer, mi objetivo es brindarte soluciones que no solo cumplan con tus
     
 - **Conversor de unidades**: Una herramienta web desarrollada para hacer algunas conversiones de unidades
   -  [Ver proyecto](https://pagina-conversor-react.web.app)
-  -  [Ver repositorio](https://github.com/AlbeiroBurbano/Conversor-universal) 
-
+  -  [Ver repositorio](https://github.com/AlbeiroBurbano/Conversor-universal)
+    
+- **ClimaAhora**: Aplicación web para consultar el clima mundial en tiempo real.
+  -  [Ver proyecto](https://clima-ahora.web.app)
+  -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/app_clima/tree/main) 
 ## ¿Hablamos?
 Si estás buscando a alguien comprometido, apasionado por la tecnología y listo para llevar tu proyecto al siguiente nivel, aquí estoy.
 
