@@ -17,9 +17,16 @@ Como freelancer, mi objetivo es brindarte soluciones que no solo cumplan con tus
     
 - **ClimaAhora**: Aplicación web para consultar el clima mundial en tiempo real.
   -  [Ver proyecto](https://clima-ahora.web.app)
-  -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/app_clima/tree/main) 
+  -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/app_clima/tree/main)
+
+- **Calculadora de cifrado César**: Esta aplicación es una herramienta que permite cifrar mensajes utilizando el cifrado César, una técnica clásica de criptografía.
+  -  [Ver proyecto](https://cifrado-cesar-dc867.web.app)
+  -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/app_cifrado_cesar/tree/main)
+ 
+
 ## ¿Hablamos?
-Si estás buscando a alguien comprometido, apasionado por la tecnología y listo para llevar tu proyecto al siguiente nivel, aquí estoy.
+
+Si buscas un desarrollador tecnológico comprometido y apasionado, listo para elevar tu proyecto, contáctame.
 
 <p align="left">
   <a href="http://www.linkedin.com/in/albeiro-jose-burbano-tobar-759ba4297"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"></a>
