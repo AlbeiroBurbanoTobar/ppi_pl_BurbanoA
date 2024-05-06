@@ -22,12 +22,12 @@ Como freelancer, mi objetivo es brindarte soluciones que no solo cumplan con tus
 - **Calculadora de cifrado César**: Esta aplicación es una herramienta que permite cifrar mensajes utilizando el cifrado César, una técnica clásica de criptografía.
   -  [Ver proyecto](https://cifrado-cesar-dc867.web.app)
   -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/app_cifrado_cesar/tree/main)
- 
-  - **Calculadora de Propinas y Consumo**: Esta aplicación es una herramienta que permite calcular el consumo total en un restaurante, incluyendo propinas, usando una interfaz interactiva.
+
+ - **Calculadora de Propinas y Consumo**: Esta aplicación es una herramienta que permite calcular el consumo total en un restaurante, incluyendo propinas, usando una interfaz interactiva.
   -  [Ver proyecto](https://calculadora-propinas-d1e5d.web.app/)
   -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/calculadoraPropinas)
  
-  - **Contador de Calorías**: Esta aplicación es una herramienta que permite el seguimiento y gestión de las calorías consumidas y quemadas a lo largo del día.
+- **Contador de Calorías**: Esta aplicación es una herramienta que permite el seguimiento y gestión de las calorías consumidas y quemadas a lo largo del día.
   -  [Ver proyecto](https://contador-calorias-edb61.web.app/)
   -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/calculadora-calorias)
  
