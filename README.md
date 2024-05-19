@@ -30,6 +30,10 @@ Como freelancer, mi objetivo es brindarte soluciones que no solo cumplan con tus
 - **Contador de Calorías**: Esta aplicación es una herramienta que permite el seguimiento y gestión de las calorías consumidas y quemadas a lo largo del día.
   -  [Ver proyecto](https://contador-calorias-edb61.web.app/)
   -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/calculadora-calorias)
+
+- **CryptoConverter**: CryptoConverter es una aplicación web desarrollada para proporcionar información actualizada sobre el valor de las criptomonedas en diversas monedas. Utiliza una interfaz sencilla y una potente API de CoinGecko para entregar conversiones precisas y detalladas.
+  -  [Ver proyecto](https://cripto-convierter.web.app)
+  -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/crypto-converter/tree/main)
  
 
 ## ¿Hablamos?
