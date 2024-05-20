@@ -1,4 +1,4 @@
-Hola, Soy Albeiro Burbano, tu próximo colaborador en desarrollo web y móvil.
+Hola, Soy Albeiro Burbano, un desarrollor web y móvil.
 
 ## ¿Qué puedo ofrecerte?
 Como freelancer, mi objetivo es brindarte soluciones que no solo cumplan con tus expectativas sino que las superen. Estas son algunas de las áreas en las que puedo apoyarte:
@@ -34,6 +34,10 @@ Como freelancer, mi objetivo es brindarte soluciones que no solo cumplan con tus
 - **CryptoConverter**: CryptoConverter es una aplicación web desarrollada para proporcionar información actualizada sobre el valor de las criptomonedas en diversas monedas. Utiliza una interfaz sencilla y una potente API de CoinGecko para entregar conversiones precisas y detalladas.
   -  [Ver proyecto](https://cripto-convierter.web.app)
   -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/crypto-converter/tree/main)
+ 
+- **CURRENCY CONVERTER**: Esta aplicación te permite convertir el valor de varias divisas a diferentes monedas en tiempo real. Te ofrece datos como el valor actual en la moneda seleccionada.
+  -  [Ver proyecto](https://conversor-divisas-68bc5.web.app)
+  -  [Ver repositorio](https://github.com/AlbeiroBurbanoTobar/conversor-de-divisas/tree/main)
  
 
 ## ¿Hablamos?
